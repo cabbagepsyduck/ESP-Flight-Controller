@@ -1,0 +1,11 @@
+﻿  main.cpp
+C:\Users\prate\Desktop\QC\udp_client\udp_client\main.cpp(43,35): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\prate\Desktop\QC\udp_client\udp_client\main.cpp(43,24): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\prate\Desktop\QC\udp_client\udp_client\main.cpp(91,33): warning C4244: 'initializing': conversion from '_Rep' to 'unsigned char', possible loss of data
+          with
+          [
+              _Rep=__int64
+          ]
+C:\Users\prate\Desktop\QC\udp_client\udp_client\main.cpp(108,10): warning C4101: 'message': unreferenced local variable
+C:\Users\prate\Desktop\QC\udp_client\udp_client\main.cpp(107,10): warning C4101: 'buf': unreferenced local variable
+  udp_client.vcxproj -> C:\Users\prate\Desktop\QC\udp_client\Debug\udp_client.exe
